@@ -18,6 +18,10 @@ Thi is an example for the connection string:
 Connection conn = DriverManager.getConnection("jdbc:sqlite:C:\\Java SE Luxoft training\\Java17MasterClassUdemyTraining\\section20\\Databases-Creating-Databases-With-JDBC-in-Java-Source-code\\testjava.db");
 ```
 
+## Application source code
+
+This is the whole application source code: 
+
 ```java
 package com.timbuchalka;
 
