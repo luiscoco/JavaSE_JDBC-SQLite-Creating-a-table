@@ -4,7 +4,7 @@
 
 2. Open the application in IngelliJ.
 
-3. Set the the jar file "sqlite-jdbc JAR 3.15.1" path in the IntelliJ File->Project structure:
+3. Set the the jar file "sqlite-jdbc JAR 3.15.1" path in the IntelliJ File->Project structure->Libraries:
 
 ![image](https://github.com/luiscoco/JavaSE_JDBC-SQLite-Creating-a-table/assets/32194879/70ec6efd-9e02-47af-8cc3-e27156b5022d)
 
